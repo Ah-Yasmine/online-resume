@@ -212,7 +212,13 @@ language:
       level: Professional
     - idiom: French
       level: Basic
-
+      
+evaluation:
+  show: true
+  order: 13
+  title: Self-evaluation
+  description: |
+    My strength lies in my multidisciplinary background and extensive practical experience. During my time at the university, especially in college, I had a lot of experience in projects and teamwork in internships. In addition, I have excellent self-learning skills and can quickly grasp new technologies and tools. My patience and meticulousness are another great strength in my work. I was able to maintain a high level of focus in my work, ensuring every detail. I have experience in back-end development and testing, and I am able to test and troubleshoot effectively from a developer's perspective. I am a good communicator and am able to work closely with my team members to solve problems and be productive.
 
 
 close: <strong>Sorry, my resume has been hidden.</strong>
