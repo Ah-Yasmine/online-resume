@@ -117,13 +117,13 @@ experience:
         • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
 
     
-experience:
+organization:
   show: true
   order: 4
   title: EXTRACURRICULAR ACTIVITIES
   description: |
   
-    items:
+  items:
     - company: University Housing Management Committee
       role: Minister
       date: Sept. 2020 – Sept. 2021
@@ -179,25 +179,25 @@ education:
         
         • Final Major Project: Research on OCR Detection and Recognition Technology Based on Deep Learning
 
-organization:
-  show: true
-  order: 6
-  title: EXTRACURRICULAR ACTIVITIES
+# organization:
+#   show: true
+#   order: 6
+#   title: EXTRACURRICULAR ACTIVITIES
   
-  items:
-    - company: University Housing Management Committee
-      role: Minister
-      date: Sept. 2020 – Sept. 2021
-      location: Shandong, China
-      description: |
-        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
+#   items:
+#     - company: University Housing Management Committee
+#       role: Minister
+#       date: Sept. 2020 – Sept. 2021
+#       location: Shandong, China
+#       description: |
+#         Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
 
-    - company: Seventh National Census
-      role: Census Enumerator
-      date: Nov. 2020 – Dec. 2020
-      location: Shandong, China
-      description: |
-        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+#     - company: Seventh National Census
+#       role: Census Enumerator
+#       date: Nov. 2020 – Dec. 2020
+#       location: Shandong, China
+#       description: |
+#         Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
   
 language:
   show: true
