@@ -1,1 +1,198 @@
+basic:
+  name: Yaoyuan ZHANG             # name
+  title: Full-stack Developer          # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /photo.jpg          # avatar file path
+
+contact:
+  # meta
+  location: Rouen, France            # location
+  email: yasmine010810@gmail.com     # email address
+  phone: +33-06 00 02 62 53          # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:               # site URL without schema, like example.com, will automatically prepend "https://"
+
+  # contact
+  wechat:                            # username
+  whatsapp:                          # 8611122223333 | https://wa.me/8611122223333
+  telegram:                          # username | https://t.me/username
+  messenger:                         # username | https://m.me/username
+  line:                              # lineid | https://line.me/R/ti/p/@lineid
+  viber:                             # username | https://vb.me/username
+  threema:                           # userid | https://threema.id/userid
+
+  # programmer
+  github:                            # username | https://github.com/username
+  gitlab:                            # username | https://gitlab.com/username
+  bitbucket:                         # username | https://bitbucket.com/username
+  stackoverflow:                     # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                          # username | https://leetcode.com/username
+  codeforces:                        # username | https://codeforces.com/profile/username
+  codewars:                          # username | https://www.codewars.com/users/username
+  codepen:                           # username | https://codepen.io/username
+  tryhackme:                         # username | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:                     # username | https://scholar.google.com/citations?user=username
+  researchgate:                      # username | https://www.researchgate.net/profile/username
+  kaggle:                            # username | https://www.kaggle.com/username
+  orcid:                             # id | https://orcid.org/id
+  figshare:                          # name/id | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                             # username | https://dev.to/username
+  medium:                            # username | https://medium.com/@username
+  wordpress:                         # username | https://username.wordpress.com
+  blogger:                           # username | https://username.blogspot.com
+  wikipedia:                         # username | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                             # username | https://www.figma.com/@username
+  behance:                           # username | https://www.behance.net/username
+  dribble:                           # username | https://dribbble.com/username
+  artstation:                        # username | https://www.artstation.com/username
+
+  # other cv
+  linkedin: https://www.linkedin.com/in/yasminezhang  # username | https://linkedin.com/in/username
+  indeed:                            # resumeid | https://my.indeed.com/p/resumeid
+  xing:                              # username | https://www.xing.com/profile/username
+  fiverr:                            # username | https://www.fiverr.com/username
+  freelancer:                        # username | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                           # username | https://twitter.com/username
+  mastodon:                          # username@server
+  instagram:                         # username | https://instagram.com/username
+  unsplash:                          # username | https://unsplash.com/@username
+  _500px:                            # username | https://500px.com/p/username
+  youtube:                           # username | https://www.youtube.com/@username
+  tiktok:                            # username | https://www.tiktok.com/@username
+  quora:                             # username | https://www.quora.com/profile/username
+  zhihu:                             # username | https://www.zhihu.com/people/username
+  goodreads:                         # username | https://www.goodreads.com/user/show/username
+  strava:                            # useid | https://www.strava.com/athletes/userid
+   
+experience:
+  show: true
+  order: 3
+  title: PROFESSIONAL EXPERIENCE
+  description: |
+   
+  items:
+    - company: ESIGELEC
+      link: 'https://www.esigelec.fr/fr'
+      tags: Full-time
+      date: Mar. 2024 – Jun. 2024
+      role: R&D Engineer
+      location: Rouen, France
+      description: |
+        • Conducted research on the DJI robot, using YOLOv5 object detection, real-time video processing, and robot motion control for covering automatic route planning, automatic obstacle avoidance, and automatic portrait tracking.
+        
+        • Tested to see if the robot could utilize its own robotic arm to grasp up to nearly 50 objects, with the final number of objects successfully grasped being 27. The robot was configured to transport the designated objects to the designated place after grasping them.
+        
+        • Led a team of 3 members to organize a tracking test, which attracted 10 individuals within 3 days.
+
+    - company: Yantai Meisuo Trading Co., Ltd
+      link: 
+      tags: Internship
+      date: Sept. 2022 – Dec. 2022
+      role: Data Analyst
+      location: Shandong, China
+      description: |
+        • Used Python and JSP to complete an enterprise sales data analysis system, calling the duty personnel of 30 branches at any time, and receiving real-time sales data and warehouse in and out of data.
+        
+        • Participated in statistics and analysis of data for 10 technical department projects.
+        
+        • Submitted 8 weekly sales data analysis sheets which used MySQL to retrieve.
+
+    - company: Zhongsha Digital Technology Co., Ltd
+      link: 
+      tags: Internship
+      date: Sept. 2021 – Jun. 2022
+      role: UX Designer & 3D Modeler
+      location: Shandong, China
+      description: |
+        • Completed the modeling of 2 anime characters and a movie background, and delivered the project.
+        
+        • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
+
+    
+award:
+  show: true
+  order: 4
+  title: EXTRACURRICULAR ACTIVITIES
+  description: |
+  
+  items:
+    - name: University Housing Management Committee
+      awarder: Minister
+      date: Sept. 2020 – Sept. 2021
+      # location: Shandong, China
+      description: |
+        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
+
+    - name: Seventh National Census
+      awarder: Census Enumerator
+      date: Nov. 2020 – Dec. 2020
+      #location: Shandong, China
+      description: |
+        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+
+
+skill:
+  show: true
+  order: 2
+  title: TECHNICAL SKILLS
+  description: |
+    • Programming: Java, C, R, HTML, CSS, JavaScript, Linux, Object-oriented
+    
+    • Analytic: SQL, Python, Kafka, Scala, PowerShell, Power BI, Oracle, Matlab, Excel VBA
+    
+    • Platforms: PCB, ESP32, SAP ERP, UI / UX, Microsoft Excel
+
+education:
+  show: true
+  order: 1
+  title: Education
+  description: |
+
+  items:
+    - institution: ESIGELEC
+      link: 'https://www.esigelec.fr/fr'
+      date: 2023 - 2024
+      major: Connected Embedded Artificial Intelligent Systems
+      degree: Master
+      description: |
+        Core Modules: Real-Time Operating System / Embedded Linux / Mobile Robotics and Perception / Smart Sensors / Project Management / Embedded C Programming / Machine Learning / Specific Instrumentation  
+
+    - institution: 山东交通学院
+      link: 'https://www.sdjtu.edu.cn/'
+      date: 2019 - 2023
+      major: 数据科学与大数据技术
+      degree: 学士学位
+      description: |
+        • GPA: 3.20 / 4.0
+        
+        • 荣誉/奖项: 校级综合奖学金二等奖, 校级优秀学生
+        
+        • 关键课程: 深度学习 / 机器学习 / Linux Operating System / Software Engineering / Web Application Development / Big Data in Transportation / Traffic Engineering / Data Structures 
+        
+        • Final Major Project: Research on OCR Detection and Recognition Technology Based on Deep Learning
+language:
+  show: true
+  order: 5
+  title: 语言
+  description: |
+
+  items:
+    - idiom: 中文
+      level: 母语
+    - idiom: 英语
+      level: 专业
+    - idiom: 法语
+      level: 基础
+
+
+
+close: <strong>Sorry, my resume has been hidden.</strong>
 
