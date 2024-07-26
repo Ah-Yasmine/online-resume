@@ -161,20 +161,28 @@ organization:
   order: 4
   title: EXTRACURRICULAR ACTIVITIES
   
-  items:
-    - company: University Housing Management Committee
-      role: Minister
-      date: Sept. 2020 – Sept. 2021
-      location: Shandong, China
-      description: |
-        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
+  # items:
+  #   - company: University Housing Management Committee
+  #     role: Minister
+  #     date: Sept. 2020 – Sept. 2021
+  #     location: Shandong, China
+  #     description: |
+  #       Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
 
-    - company: Seventh National Census
-      role: Census Enumerator
-      date: Nov. 2020 – Dec. 2020
-      location: Shandong, China
+  #   - company: Seventh National Census
+  #     role: Census Enumerator
+  #     date: Nov. 2020 – Dec. 2020
+  #     location: Shandong, China
+  #     description: |
+  #       Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+  items:
+    - institution: ESIGELEC
+      link: 'https://www.esigelec.fr/fr'
+      date: 2023 - 2024
+      major: Connected Embedded Artificial Intelligent Systems
+      degree: Master
       description: |
-        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+        Core Modules: Real-Time Operating System / Embedded Linux / Mobile Robotics and Perception / Smart Sensors / Project Management / Embedded C Programming / Machine Learning / Specific Instrumentation  
 
 language:
   show: true
@@ -190,21 +198,6 @@ language:
     - idiom: French
       level: Basic
 
-
-
- language:
-  show: true
-  order: 4
-  title: EXTRACURRICULAR ACTIVITIES
-  description: |
-
-  items:
-    - company: University Housing Management Committee
-      role: Minister
-      date: Sept. 2020 – Sept. 2021
-      location: Shandong, China
-      description: |
-        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
 
 
 close: <strong>Sorry, my resume has been hidden.</strong>
