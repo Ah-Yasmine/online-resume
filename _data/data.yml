@@ -10,7 +10,7 @@ contact:
   location: Rouen, France            # location
   email: yasmine010810@gmail.com     # email address
   phone: +33-06 00 02 62 53          # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com               # site URL without schema, like example.com, will automatically prepend "https://"
+  website:               # site URL without schema, like example.com, will automatically prepend "https://"
 
   # contact
   wechat:                            # username
@@ -149,16 +149,17 @@ education:
       degree: Bachelor
       description: |
         • GPA: 3.20 / 4.0
+        
         • Honors/Awards: Second Prize in School-level General Scholarship, Outstanding Students at School Level 
+        
         • Core Modules: Deep Learning / Machine Learning / Linux Operating System / Software Engineering / Web Application Development / Big Data in Transportation / Traffic Engineering / Data Structures 
+        
         • Final Major Project: Research on OCR Detection and Recognition Technology Based on Deep Learning
 
 organization:
   show: true
   order: 4
   title: EXTRACURRICULAR ACTIVITIES
-  description: |
-
   items:
     - company: University Housing Management Committee
       role: Minister
