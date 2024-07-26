@@ -92,9 +92,11 @@ experience:
       role: R&D Engineer
       location: Rouen, France
       description: |
-       Conducted research on the DJI robot, using YOLOv5 object detection, real-time video processing, and robot motion control for covering automatic route planning, automatic obstacle avoidance and automatic portrait tracking
-       Tested to see if the robot could utilize its own robotic arm to grasp up nearly 50 objects, with the final number of objects successfully grasped being 27. The robot was realized to transport the designated objects to the designated place after grasping them
-       Led a team of 3 members to organize a tracking test, which attracted 10 individuals within 3 days
+      Conducted research on the DJI robot, using YOLOv5 object detection, real-time video processing, and robot motion control for covering automatic route planning, automatic obstacle avoidance and automatic portrait tracking
+      
+      Tested to see if the robot could utilize its own robotic arm to grasp up nearly 50 objects, with the final number of objects successfully grasped being 27. The robot was realized to transport the designated objects to the designated place after grasping them
+      
+      Led a team of 3 members to organize a tracking test, which attracted 10 individuals within 3 days
 
     - company: Yantai Meisuo Trading Co., Ltd
       link:
@@ -103,9 +105,11 @@ experience:
       role: Data Analyst
       location: Shandong, China
       description: |
-       Used Python and JSP to complete an enterprise sales data analysis system, calling the duty personnel of 30 branches at any time, and receiving real-time sales data and the warehouse in and out of data
-       Participated in statistics and analysis of data for 10 technical department projects 
-       Submitted 8 weekly sales data analysis sheets which used MySQL to receive
+      Used Python and JSP to complete an enterprise sales data analysis system, calling the duty personnel of 30 branches at any time, and receiving real-time sales data and the warehouse in and out of data
+      
+      Participated in statistics and analysis of data for 10 technical department projects 
+      
+      Submitted 8 weekly sales data analysis sheets which used MySQL to receive
 
     - company: Zhongsha Digital Technology Co., Ltd
       link:
@@ -114,8 +118,9 @@ experience:
       role: UX designer&3D modeler
       location: Shandong, China
       description: |
-       Completed the modeling of 2 anime characters and a movie background, completed the delivery of their project 
-       Used UI and UX to design the game's interface, including the main menu and navigation interface
+      Completed the modeling of 2 anime characters and a movie background, completed the delivery of their project 
+     
+      Used UI and UX to design the game's interface, including the main menu and navigation interface
        
 
 skill:
