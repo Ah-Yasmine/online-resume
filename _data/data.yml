@@ -75,7 +75,7 @@ contact:
 experience:
   show: true
   order: 3
-  title: TECHNICAL SKILLS
+  title: PROFESSIONAL EXPERIENCE
   description: |
    
   items:
@@ -115,6 +115,21 @@ experience:
         • Completed the modeling of 2 anime characters and a movie background, and delivered the project.
         
         • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
+
+    - company: University Housing Management Committee
+      role: Minister
+      date: Sept. 2020 – Sept. 2021
+      location: Shandong, China
+      description: |
+        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
+
+    - company: Seventh National Census
+      role: Census Enumerator
+      date: Nov. 2020 – Dec. 2020
+      location: Shandong, China
+      description: |
+        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+  
 
 skill:
   show: true
@@ -161,29 +176,21 @@ organization:
   order: 4
   title: EXTRACURRICULAR ACTIVITIES
   
-  # items:
-  #   - company: University Housing Management Committee
-  #     role: Minister
-  #     date: Sept. 2020 – Sept. 2021
-  #     location: Shandong, China
-  #     description: |
-  #       Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
-
-  #   - company: Seventh National Census
-  #     role: Census Enumerator
-  #     date: Nov. 2020 – Dec. 2020
-  #     location: Shandong, China
-  #     description: |
-  #       Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
   items:
-    - institution: ESIGELEC
-      link: 'https://www.esigelec.fr/fr'
-      date: 2023 - 2024
-      major: Connected Embedded Artificial Intelligent Systems
-      degree: Master
+    - company: University Housing Management Committee
+      role: Minister
+      date: Sept. 2020 – Sept. 2021
+      location: Shandong, China
       description: |
-        Core Modules: Real-Time Operating System / Embedded Linux / Mobile Robotics and Perception / Smart Sensors / Project Management / Embedded C Programming / Machine Learning / Specific Instrumentation  
+        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
 
+    - company: Seventh National Census
+      role: Census Enumerator
+      date: Nov. 2020 – Dec. 2020
+      location: Shandong, China
+      description: |
+        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+  
 language:
   show: true
   order: 5
