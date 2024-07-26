@@ -160,6 +160,7 @@ organization:
   show: true
   order: 4
   title: EXTRACURRICULAR ACTIVITIES
+  
   items:
     - company: University Housing Management Committee
       role: Minister
