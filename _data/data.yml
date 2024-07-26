@@ -1,6 +1,6 @@
 basic:
   name: Zhang yaoyuan                      # name
-  title: Backend Developer           # job title
+  title: Full-stack Developer           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
