@@ -1,13 +1,13 @@
 basic:
-  name: Yaoyuan ZHANG             # name
-  title: Full-stack Developer          # job title
+  name: 张耀元             # name
+  title: 全栈开发          # job title
   avatar:
     show: true                       # show or hide avatar
     path: /photo.jpg          # avatar file path
 
 contact:
   # meta
-  location: Rouen, France            # location
+  location: 鲁昂, 法国            # location
   email: yasmine010810@gmail.com     # email address
   phone: +33-06 00 02 62 53          # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:               # site URL without schema, like example.com, will automatically prepend "https://"
