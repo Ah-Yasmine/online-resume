@@ -75,109 +75,108 @@ contact:
 experience:
   show: true
   order: 3
-  title: PROFESSIONAL EXPERIENCE
+  title: 专业经验
   description: |
    
   items:
     - company: ESIGELEC
       link: 'https://www.esigelec.fr/fr'
-      tags: Full-time
-      date: Mar. 2024 – Jun. 2024
-      role: R&D Engineer
-      location: Rouen, France
+      tags: 实习
+      date:  2024年3月 – 2024年6月
+      role: R&D 工程师
+      location: 鲁昂, 法国
       description: |
-        • Conducted research on the DJI robot, using YOLOv5 object detection, real-time video processing, and robot motion control for covering automatic route planning, automatic obstacle avoidance, and automatic portrait tracking.
+        • 对DJI大疆创新机器人进行研究，利用YOLOv5目标检测、实时视频处理、机器人运动控制等功能，实现自动路线规划、自动避障、自动人像追踪等功能。
         
-        • Tested to see if the robot could utilize its own robotic arm to grasp up to nearly 50 objects, with the final number of objects successfully grasped being 27. The robot was configured to transport the designated objects to the designated place after grasping them.
+        • 测试了机器人是否可以利用自己的机械臂抓取多达近 50 个物体，最终成功抓取的物体数量为 27 个。该机器人被配置为在抓取指定物体后将它们运送到指定位置。
         
-        • Led a team of 3 members to organize a tracking test, which attracted 10 individuals within 3 days.
+        • 带领3人团队组织跟踪测试，在3天内吸引了10人参加。
 
-    - company: Yantai Meisuo Trading Co., Ltd
+    - company: 烟台美索商贸有限公司
       link: 
-      tags: Internship
-      date: Sept. 2022 – Dec. 2022
-      role: Data Analyst
-      location: Shandong, China
+      tags: 实习
+      date: 2022年9月 – 2022年12月
+      role: 数据分析师
+      location: 山东, 中国
       description: |
-        • Used Python and JSP to complete an enterprise sales data analysis system, calling the duty personnel of 30 branches at any time, and receiving real-time sales data and warehouse in and out of data.
+        • 使用Python和JSP完成了企业销售数据分析系统，随时呼叫30个分公司的值班人员，接收实时销售数据和出入库数据。
         
-        • Participated in statistics and analysis of data for 10 technical department projects.
+        • 参与10个技术部门项目的数据统计和分析。
         
-        • Submitted 8 weekly sales data analysis sheets which used MySQL to retrieve.
+        • 提交了8份使用MySQL检索的每周销售数据分析表。
 
-    - company: Zhongsha Digital Technology Co., Ltd
+    - company: 中鲨数字科技有限公司
       link: 
-      tags: Internship
-      date: Sept. 2021 – Jun. 2022
-      role: UX Designer & 3D Modeler
-      location: Shandong, China
+      tags: 实习
+      date: 2021年9月 – 2022年6月
+      role: UX 设计师 & 3D 建模师
+      location: 山东, 中国
       description: |
-        • Completed the modeling of 2 anime characters and a movie background, and delivered the project.
+        • 完成了2个动漫角色和一个电影背景的建模，并交付了项目。
         
-        • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
+        • 使用 UI 和 UX 原则来设计游戏的界面，包括主菜单和导航界面。
 
     
 award:
   show: true
   order: 4
-  title: EXTRACURRICULAR ACTIVITIES
+  title: 课外活动
   description: |
   
   items:
-    - name: University Housing Management Committee
-      awarder: Minister
-      date: Sept. 2020 – Sept. 2021
-      # location: Shandong, China
+    - name: 校宿管会
+      awarder: 部长
+      date: 2020年9月 – 2021年9月
       description: |
-        Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
+        带领12人的团队组织康复活动，招募新会员约20人，从2020年9月到2021年9月，在12个月内增加了会员总数。组织了大约35次会议和20项活动。
 
-    - name: Seventh National Census
-      awarder: Census Enumerator
-      date: Nov. 2020 – Dec. 2020
-      #location: Shandong, China
+    - name: 第七届人口普查
+      awarder: 人口普查员
+      date: 2020年10月 – 2020年12月      
       description: |
-        Responsible for collecting information on people in the assigned area, which involved around 600 individuals, categorizing and uploading the information.
+        负责收集指定区域内的人员信息，涉及约 600 人，对信息进行分类和上传。
 
 
 skill:
   show: true
   order: 2
-  title: TECHNICAL SKILLS
+  title: 技术技能
   description: |
-    • Programming: Java, C, R, HTML, CSS, JavaScript, Linux, Object-oriented
+    • 编程: Java, C, R, HTML, CSS, JavaScript, Linux, Object-oriented
     
-    • Analytic: SQL, Python, Kafka, Scala, PowerShell, Power BI, Oracle, Matlab, Excel VBA
+    • 分析: SQL, Python, Kafka, Scala, PowerShell, Power BI, Oracle, Matlab, Excel VBA
     
-    • Platforms: PCB, ESP32, SAP ERP, UI / UX, Microsoft Excel
+    • 平台: PCB, ESP32, SAP ERP, UI / UX, Microsoft Excel
 
 education:
   show: true
   order: 1
-  title: Education
+  title: 教育背景
   description: |
 
   items:
     - institution: ESIGELEC
       link: 'https://www.esigelec.fr/fr'
-      date: 2023 - 2024
-      major: Connected Embedded Artificial Intelligent Systems
-      degree: Master
+      date: 2023年7月 – 2024年12月
+      major: 嵌入式人工智能系统
+      degree: 硕士学位
       description: |
-        Core Modules: Real-Time Operating System / Embedded Linux / Mobile Robotics and Perception / Smart Sensors / Project Management / Embedded C Programming / Machine Learning / Specific Instrumentation  
+        核心课程: 实时操作系统 / 嵌入式Linux / 移动机器人与感知 / 智能传感器 / 项目管理 / 嵌入式 C 语言 / 机器学习 / 特定仪器 
 
     - institution: 山东交通学院
       link: 'https://www.sdjtu.edu.cn/'
-      date: 2019 - 2023
+      date: 2019年9月 – 2023年6月
       major: 数据科学与大数据技术
       degree: 学士学位
       description: |
         • GPA: 3.20 / 4.0
         
-        • 荣誉/奖项: 校级综合奖学金二等奖, 校级优秀学生
+        • 荣誉/获奖: 校级综合奖学金二等奖, 校级优秀学生
         
-        • 关键课程: 深度学习 / 机器学习 / Linux Operating System / Software Engineering / Web Application Development / Big Data in Transportation / Traffic Engineering / Data Structures 
+        • 核心课程: 深度学习 / 机器学习 / Linux操作系统 / 软件工程 / Web应用程序开发 / 交通大数据 / 交通工程 / 数据结构
         
-        • Final Major Project: Research on OCR Detection and Recognition Technology Based on Deep Learning
+        • 毕业论文: 基于深度学习的OCR检测与识别技术
+
 language:
   show: true
   order: 5
@@ -190,9 +189,15 @@ language:
     - idiom: 英语
       level: 专业
     - idiom: 法语
-      level: 基础
-
-
+      level: 初级
+      
+evaluation:
+  show: true
+  order: 7
+  title: 自我评价
+  description: |
+    我的优势在于我具有多学科的背景和丰富的实践经验。在校期间尤其大学期间我有较为丰富的项目经验以及实习中的团队合作经验。此外，我具备出色的自学能力，能够迅速掌握新技术和工具。我的耐心和细致是我在工作上的另一大优势。我能够在工作中保持高度专注，确保每一个细节。我有后端开发经验和测试经验，能够从开发者的角度出发，进行有效的测试和问题排查。我善于沟通，能够与团队成员紧密合作，共同解决问题，提高工作效率。
 
 close: <strong>Sorry, my resume has been hidden.</strong>
+
 
