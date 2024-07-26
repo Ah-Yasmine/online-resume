@@ -159,7 +159,7 @@ education:
   items:
     - institution: ESIGELEC
       link: 'https://www.esigelec.fr/fr'
-      date: 2023 - 2024
+      date: Sept. 2023 – Dec. 2024
       major: Connected Embedded Artificial Intelligent Systems
       degree: Master
       description: |
@@ -167,7 +167,7 @@ education:
 
     - institution: Shandong Jiaotong University
       link: 'https://www.sdjtu.edu.cn/'
-      date: 2019 - 2023
+      date: Sept. 2019 – Jun. 2023
       major: Data Science & Big Data Technology
       degree: Bachelor
       description: |
