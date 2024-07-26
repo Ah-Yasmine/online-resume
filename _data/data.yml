@@ -1,16 +1,16 @@
 basic:
-  name: yaoyuan Zhang                     # name
-  title: Backend Developer           # job title
+  name: Yaoyuan ZHANG                # name
+  title: Full-stack Developer           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/photo.jpg # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Rouen, France # location
+  email: yasmine010810@gmail.com    # email address
+  phone: +33-06 66 02 62 53 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin:https://www.linkedin.com/in/yasminezhang   # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -81,11 +81,19 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: EDUCATION
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+    ESIGELEC
+    Master of Science; Connected Embedded Artificial Intelligent Systems                 Sept. 2023 – Dec. 2024
+    Core Modules: Real-Time Operating System / Embedded Linux / Mobile Robotics and Perception / Smart Sensors /Project Management / Embedded C Programming / Machine Learning / Specific Instrumentation
+    
+    Shandong Jiaotong University Shandong, China
+    Bachelor of Science; Data Science & Big Data Technology                              Sept. 2019 – Jun. 2023
+     GPA: 3.20 / 4.0
+     Honors/Awards: Second Prize in School-level General Scholarship, Outstanding Students at School Level 
+     Core Modules: Deep Learning / Machine Learning / Linux operating system / Software Engineering / Web Application Development / Big data in transportation / Traffic Engineering / Data Structures 
+     Final Major Project: Research on OCR detection and recognition technology based on deep learning
+   
 
 experience:
   show: true
