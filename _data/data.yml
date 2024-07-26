@@ -116,6 +116,14 @@ experience:
         
         • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
 
+    
+experience:
+  show: true
+  order: 4
+  title: EXTRACURRICULAR ACTIVITIES
+  description: |
+  
+    items:
     - company: University Housing Management Committee
       role: Minister
       date: Sept. 2020 – Sept. 2021
@@ -173,7 +181,7 @@ education:
 
 organization:
   show: true
-  order: 4
+  order: 6
   title: EXTRACURRICULAR ACTIVITIES
   
   items:
