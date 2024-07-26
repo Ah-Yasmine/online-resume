@@ -117,22 +117,21 @@ experience:
         • Used UI and UX principles to design the game's interface, including the main menu and navigation interface.
 
     
-organization:
+experience:
   show: true
-  order: 6
+  order: 4
   title: EXTRACURRICULAR ACTIVITIES
   description: |
-    • University Housing Management Committee
   
   items:
-    - community: University Housing Management Committee
+    - company: University Housing Management Committee
       role: Minister
       date: Sept. 2020 – Sept. 2021
       location: Shandong, China
       description: |
         Led a team of 12 people to organize rehabilitation activities to recruit around 20 new members, increasing the overall membership from Sept. 2020 to Sept. 2021 within 12 months. Organized around 35 meetings and 20 activities.
 
-    - community: Seventh National Census
+    - company: Seventh National Census
       role: Census Enumerator
       date: Nov. 2020 – Dec. 2020
       location: Shandong, China
